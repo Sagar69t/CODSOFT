@@ -51,3 +51,8 @@ display: flex;
 .text-center:hover::after{
     width: 20%;
 }
+footer {
+    background: var(--Blue-color);
+    padding: 15px 0;
+    text-align: center;
+}
